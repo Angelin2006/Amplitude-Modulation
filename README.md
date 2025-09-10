@@ -98,7 +98,7 @@ Output Waveform
 
 TABULATION:
 
-![WhatsApp Image 2025-09-10 at 12 51 06_450ede60](https://github.com/user-attachments/assets/eb9ea714-e8ef-4b99-bad9-5cd87009589b)
+![WhatsApp Image 2025-09-10 at 15 13 21_e0b9c7d1](https://github.com/user-attachments/assets/bbee2934-fef2-4edb-a2eb-7e61f1696d03)
 
 Calculation
 1.	ma (Theory) = am/ac = 4.3/8.6 = 0.5
@@ -109,8 +109,5 @@ MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
 
  
- 
-
-
-RESULT:
+ RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
